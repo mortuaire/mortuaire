@@ -1,10 +1,10 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.cBfEsyihxmppiMHDuMMzhQHaDI?pid=ImgDet&rs=1)](https://soundcloud.com/sanglant)
+[![MasterHead](https://th.bing.com/th/id/OIP.cBfEsyihxmppiMHDuMMzhQHaDI?pid=ImgDet&rs=1)]
 
 <h3 align="center">SHE WANNA BE A KLIGHTER</h3>
 
 <h3 align="left">tw:</h3>
 <p align="left">
-<a href="https://twitter.com/vampireclubgirlz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vampireclubgirlz" height="30" width="40" /></a>
+<a href="https://twitter.com/vampireclubgirl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vampireclubgirlz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">trying to:</h3>
